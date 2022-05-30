@@ -4,7 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+:wave: Hi, I’m Amir Ahmadi
+:eyes: I'm interested in python programming, machine learning and AI
+:seedling: I'm currently learning data science and deep learning
+**[Amir Ahmadi](https://github.com/amirahmadi-ru)** [^1].
 
 
 
