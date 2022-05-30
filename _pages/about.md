@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 :wave: Hi, I’m Amir Ahmadi
-:eyes: I'm interested in python programming, machine learning and AI
-:seedling: I'm currently learning data science and deep learning
-**[Amir Ahmadi](https://github.com/amirahmadi-ru)** [^1].
+:eyes: I'm interested in python programming, machine learning and AI.
+:seedling: I'm currently learning data science and deep learning.
+**[Amir Ahmadi](https://github.com/amirahmadi-ru)**.
 
 
 
